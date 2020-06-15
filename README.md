@@ -53,11 +53,9 @@ Libs:
 - [Expo](https://airbnb.design/lottie/)
 - [Redux](https://redux.js.org/)
 
-
 ## 💻 Project
 
 Welcome to Marvel Heroes! This is [umpontoseis](https://github.com/umpontoseis) second project created from designers to developers, which brings with it the aim of perfecting our skills and strengthening professional ties.
-
 
 ## 🤔 How to contribute
 

@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "marvel-heroes",
+    "name": "Marvel Heroes",
     "slug": "marvel-heroes",
     "platforms": [
       "ios",
@@ -23,6 +23,24 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "description": "Welcome to Marvel Heroes! This is umpontoseis second project created from designers to developers, which brings with it the aim of perfecting our skills and strengthening professional ties.",
+    "githubUrl": "https://github.com/vinniciusgomes/marvel-heroes"
   }
 }
