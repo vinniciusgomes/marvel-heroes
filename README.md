@@ -71,7 +71,7 @@ Libs:
 - [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
 - [StyledComponents](https://styled-components.com/)
 
-Para mais detalhes, veja o <kbd>[package.json](./package.json)</kbd>
+For more details, see the <kbd>[package.json](./package.json)</kbd>
 
 ## 💻 Project
 
