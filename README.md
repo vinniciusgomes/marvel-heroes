@@ -1,12 +1,11 @@
 <h1 align="center">
-   <a href="https://umpontoseis.com/" target="_blank">
-      <img alt="umpontoseis" title="#umpontoseis" src=".github/umpontoseis-logo.svg" width="250px" />
-    </a>
-</h1>
-
-<h1 align="center">
     <img alt="umpontoseis" title="umpontoseis" src=".github/logo.png" width="150px" />
 </h1>
+<p align="center">
+   <a align="center" href="https://umpontoseis.com/" target="_blank">
+      <img alt="umpontoseis" title="#umpontoseis" src=".github/umpontoseis-logo.svg" width="250px" />
+   </a>
+</p>
 
 <h4 align="center">
   Marvel Heroes 👨🏻‍🎤
