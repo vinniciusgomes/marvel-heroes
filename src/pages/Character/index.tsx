@@ -1,5 +1,6 @@
 import React from 'react';
 import { RouteProp } from '@react-navigation/native';
+import { StatusBar } from 'react-native';
 import { SharedElement } from 'react-navigation-shared-element';
 
 import {
@@ -74,6 +75,7 @@ const Character: React.FC<Props> = ({ route }) => {
 
   return (
     <Container>
+      <StatusBar barStyle="light-content" translucent />
       <SharedElement id={`item.${character.name}.photo`}>
         <CharacterImage
           style={{ resizeMode: 'cover' }}
