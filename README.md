@@ -1,5 +1,11 @@
 <h1 align="center">
-    <img alt="marvel-heroes" title="marvel-heroes" src=".github/logo.png" width="150px" />
+   <a href="https://umpontoseis.com/" target="_blank">
+      <img alt="umpontoseis" title="#umpontoseis" src=".github/umpontoseis-logo.svg" width="250px" />
+    </a>
+</h1>
+
+<h1 align="center">
+    <img alt="umpontoseis" title="umpontoseis" src=".github/logo.png" width="150px" />
 </h1>
 
 <h4 align="center">
@@ -32,7 +38,7 @@
 <br>
 
 <p align="center">
-  <img alt="White" src=".github/white.png" width="100%">
+  <img alt="White" src=".github/bg.png" width="100%">
 </p>
 
 <p align="center">
