@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="marvel-heroes" title="marvel-heroes" src=".github/marvel.svg" width="150px" />
+    <img alt="marvel-heroes" title="marvel-heroes" src=".github/logo.png" width="150px" />
 </h1>
 
 <h4 align="center">
