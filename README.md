@@ -34,8 +34,18 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/bg.png" width="100%">
+  <img alt="Background" src=".github/bg.png" width="100%">
 </p>
+
+<p align="center">
+  <img alt="iPhone App" src=".github/ios.png" width="100%">
+</p>
+
+
+<p align="center">
+  <img alt="Android App" src=".github/android.png" width="100%">
+</p>
+
 
 ## :rocket: Technology
 
