@@ -32,7 +32,11 @@
 <br>
 
 <p align="center">
-  <img alt="Background" src=".github/bg.png" width="100%">
+  <img alt="White" src=".github/white.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Dark" src=".github/dark.png" width="100%">
 </p>
 
 <p align="center">
@@ -63,6 +67,8 @@ Libs:
 - [React Native Image Cache](https://github.com/wcandillon/react-native-expo-image-cache)
 - [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
 - [StyledComponents](https://styled-components.com/)
+
+Para mais detalhes, veja o <kbd>[package.json](./package.json)</kbd>
 
 ## 💻 Project
 
