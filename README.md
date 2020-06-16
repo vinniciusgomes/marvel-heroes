@@ -80,7 +80,7 @@ Welcome to Marvel Heroes! This is [umpontoseis](https://github.com/umpontoseis) 
 
 ## 🔖 Layout
 
-You can see the project layout through [this link](https://www.figma.com/file/GcLF58hwUKTl83B9NY4HqK/Marvel-Heroes-(Community)?node-id=218%3A4647).
+You can see the project layout through [this link](https://www.figma.com/file/GcLF58hwUKTl83B9NY4HqK/Marvel-Heroes-Community?node-id=218%3A4647).
 
 ## 🤔 How to contribute
 
