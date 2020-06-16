@@ -28,6 +28,7 @@
 <p align="center">
   <a href="#rocket-Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-License">License</a>
 </p>
@@ -76,6 +77,10 @@ For more details, see the <kbd>[package.json](./package.json)</kbd>
 ## 💻 Project
 
 Welcome to Marvel Heroes! This is [umpontoseis](https://github.com/umpontoseis) second project created from designers to developers, which brings with it the aim of perfecting our skills and strengthening professional ties.
+
+## 🔖 Layout
+
+You can see the project layout through [this link](https://www.figma.com/file/GcLF58hwUKTl83B9NY4HqK/Marvel-Heroes-(Community)?node-id=218%3A4647).
 
 ## 🤔 How to contribute
 
