@@ -63,7 +63,7 @@ const Home = () => {
 
   return (
     <Container>
-      <StatusBar barStyle="light-content" translucent />
+      <StatusBar barStyle="dark-content" translucent />
       <Header>
         <SubTitle>Bem vindo ao Marvel Heroes</SubTitle>
         <Title>Escolha o seu</Title>
