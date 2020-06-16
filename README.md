@@ -59,7 +59,10 @@ Libs:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Expo](https://airbnb.design/lottie/)
-- [Redux](https://redux.js.org/)
+- [Expo Linear Gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
+- [React Native Image Cache](https://github.com/wcandillon/react-native-expo-image-cache)
+- [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
+- [StyledComponents](https://styled-components.com/)
 
 ## 💻 Project
 
