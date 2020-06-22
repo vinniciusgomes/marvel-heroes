@@ -16,7 +16,6 @@ import Antihero from '../../assets/icons/antihero.svg';
 import Alien from '../../assets/icons/alien.svg';
 import Human from '../../assets/icons/human.svg';
 import List from '../../components/List';
-import api from '../../services/api';
 import data from '../../data/application.json';
 
 interface Character {
